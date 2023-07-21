@@ -15,11 +15,11 @@ Table of Contents
 	7.	Future Potential of Flavus
 	8.	Possible Improvements
 
-Introduction
+## Introduction
 
 Flavus is a robust, versatile, and intuitive artificial intelligence tool designed to optimize various aspects of your business processes. By leveraging machine learning algorithms, Flavus provides solutions in areas such as sales boosting, internal organization optimization, inventory visibility, and customer engagement. It does this by utilizing a variety of machine learning techniques such as recommendation systems, clustering, regression, and time-series forecasting.
 
-Use Cases
+## Use Cases
 
 Sales Boosting: Leveraging the power of recommender systems, Flavus can suggest items to customers based on their previous interactions. This encourages customers to purchase more items, thus boosting sales.
 
@@ -29,7 +29,7 @@ Inventory Visibility: By utilizing time-series forecasting, Flavus can predict f
 
 Customer Engagement: Recommender systems not only boost sales but also improve customer engagement by providing personalized suggestions.
 
-Script Breakdown
+## Script Breakdown
 
 	1.	Data Collection: Flavus collects data from provided URLs. It currently supports CSV files.
 	2.	Data Preprocessing: The data is cleaned by removing outliers and handling missing values. Categorical features are appropriately encoded.
@@ -37,7 +37,7 @@ Script Breakdown
 	4.	Evaluation: Each model’s performance is evaluated using appropriate metrics like RMSE (Root Mean Squared Error), MAE (Mean Absolute Error), and R2 score.
 	5.	Saving the model: The final model for customer engagement is saved for future use.
 
-Scientific Explanitions
+## Scientific Explanitions
 
 Flavus utilizes a variety of scientific methods and machine learning models. This includes:
 
@@ -49,19 +49,19 @@ Linear Regression: Linear regression is a statistical method for predicting a de
 
 Time-series forecasting (Prophet): Developed by Facebook, Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects.
 
-Laymen’s Translation
+## Laymen’s Translation
 
 Flavus is like a trusted advisor for your business, drawing on past data to make educated predictions and suggestions. It’s like having a crystal ball that can predict which items your customers are likely to buy next, understand how different departments in your business are performing, and foresee future inventory needs.
 
-Value Proposition for Executives
+## Value Proposition for Executives
 
 For executives and decision-makers, Flavus is a powerful tool that allows for data-driven decision making, increased operational efficiency, and improved customer engagement. It’s like having an additional member on your team dedicated to analyzing and optimizing various aspects of your business. By identifying trends and patterns in your data, Flavus can help you make more informed decisions, ultimately improving your bottom line.
 
-Future Potential of Flavus
+## Future Potential of Flavus
 
 Flavus’ modular design allows it to serve as the foundation for a larger, more robust AI infrastructure. In the future, Flavus can be expanded to include additional modules such as customer churn prediction, sentiment analysis from customer reviews, fraud detection, and price optimization. These capabilities could further elevate Flavus from a business optimization tool to a comprehensive AI solution for modern businesses.
 
-Possible Improvements
+## Possible Improvements
 
 While Flavus is already robust, there is always room for improvement. Some potential upgrades could include:
 
