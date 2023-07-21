@@ -4,7 +4,7 @@ An AI-Powered Business Optimization Tool
 ## Developed by:
 Adam Rivers - https://abtzpro.github.io 
 
-Table of Contents
+## Table of Contents
 
 	1.	Introduction
 	2.	Use Cases
