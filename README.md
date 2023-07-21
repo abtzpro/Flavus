@@ -1,3 +1,5 @@
+![Flavus Logo](https://github.com/abtzpro/Flavus/blob/main/CC08C4E4-4E8B-4278-B41D-0798B5A71221.png)
+
 # Flavus
 An AI-Powered Business Optimization Tool
 
